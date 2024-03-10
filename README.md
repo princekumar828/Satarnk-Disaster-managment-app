@@ -2,6 +2,7 @@
 
 ##Admin website Repo
 Adimn Repo'https://github.com/bitlords88/bitlords88-bitlords88-TRINIT-BITSLORDS-DEV'
+Video Link 'https://drive.google.com/file/d/1GKwP4FIo0asPko169FDtCoCs1wzIkpVV/view?usp=sharing'
 
 ## Overview
 
