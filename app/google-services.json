@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18860702476",
+    "project_id": "satark-2dc1f",
+    "storage_bucket": "satark-2dc1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18860702476:android:aa835d1459831b123a2729",
+        "android_client_info": {
+          "package_name": "com.bitlords.disasterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgktqdMu_cj2WRZodsf3yBv5cFxrjNCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
