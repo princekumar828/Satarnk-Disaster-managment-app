@@ -1,4 +1,4 @@
-![Screenshot_20240910_143213](https://github.com/user-attachments/assets/94c116c8-a365-4ca7-9e2c-b4142cddc2de)# Disaster Alert and Relief App
+# Disaster Alert and Relief App
 
 ##Admin website Repo
 Adimn Repo'https://github.com/bitlords88/bitlords88-bitlords88-TRINIT-BITSLORDS-DEV'
